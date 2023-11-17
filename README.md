@@ -1,3 +1,3 @@
 # React App
 
-static site to play around with React and Vite
+playground of react app, tasks provided by bit.lt
