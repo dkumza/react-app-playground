@@ -1,18 +1,16 @@
 .content-container {
    background-color: bisque;
    display: flex;
+   flex-direction: column;
    align-items: center;
+   justify-content: center;
    gap: 30px;
    padding: 20px 120px;
    height: 100%;
 }
-.content-container > img {
+/* .content-container > img {
    width: 50%;
-}
-
-.main-title {
-   margin-bottom: 30px;
-}
+} */
 
 .main-para {
    text-align: justify;
